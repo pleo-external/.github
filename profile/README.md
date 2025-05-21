@@ -8,3 +8,5 @@
 
 This is a place where we collaborate with external partners in our ecosystem to broaden our integration to the market.
 
+Click here to see all the repos [Repositories](https://github.com/orgs/pleo-external/repositories?q=sort%3Aname-asc).
+
